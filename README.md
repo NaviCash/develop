@@ -24,7 +24,7 @@ pod install
 Carthage
 Carthage is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks. To integrate SVProgressHUD into your Xcode project using Carthage, specify it in your Cartfile:
 
-kaishiapidiannavicashdiancyoujieshu
+1111111
 
 github "SVProgressHUD/SVProgressHUD"
 Run carthage bootstrap to build the framework in your repository's Carthage directory. You can then include it in your target's carthage copy-frameworks build phase. For more information on this, please see Carthage's documentation.
